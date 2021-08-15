@@ -1,0 +1,25 @@
+15-08-2021 00:04:40| info| SQL object created
+15-08-2021 00:04:40| error| connection error : ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+15-08-2021 00:06:41| info| SQL object created
+15-08-2021 00:07:04| info| SQL object created
+15-08-2021 00:07:14| info| SQL object created
+15-08-2021 00:07:14| error| connection error : ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+15-08-2021 00:08:07| info| SQL object created
+15-08-2021 00:08:07| error| connection error : ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+15-08-2021 00:08:22| info| SQL object created
+15-08-2021 00:15:20| info| SQL object created
+15-08-2021 00:15:50| info| SQL object created
+15-08-2021 00:15:56| info| SQL object created
+15-08-2021 00:16:16| info| SQL object created
+15-08-2021 00:16:33| info| SQL object created
+15-08-2021 00:16:33| error| connection error : ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+15-08-2021 00:18:23| info| SQL object created
+15-08-2021 00:18:23| error| connection error : ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+15-08-2021 00:18:33| info| SQL object created
+15-08-2021 00:19:02| info| SQL object created
+15-08-2021 00:19:37| info| SQL object created
+15-08-2021 00:19:44| error| connection error : ('IM002', '[IM002] [Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified (0) (SQLDriverConnect)')
+15-08-2021 00:21:57| info| SQL object created
+15-08-2021 00:21:57| info| DB list displayed
+15-08-2021 16:11:48| info| SQL object created
+15-08-2021 16:11:48| info| DB list displayed
