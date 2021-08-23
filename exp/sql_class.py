@@ -59,11 +59,20 @@ class MsSql:
             print(str(e))
             self.logger.log("error", f"db list error : {str(e)}")
 
+    def select_db(self, db_name):
+        """
+        select a database
+        :param db_name: database name
+        :return:
+        """
+        self.db = db_name
+        self.logger.log("info", f"{db_name} DB selected")
+
     def create_table(self, table_name, columns):
-        f"""
+        """
         Function create_table is used to create a new table with schema design in columns
         :param table_name: table_name
-        :param columns: columns names with data type and other discription in sql
+        :param columns: columns names with data type
         :return: 
         """
         try:
@@ -77,10 +86,26 @@ class MsSql:
             print(str(e))
             self.logger.log("error", f"{table_name} was not created due to {str(e)}")
 
-def main():
-    ob = MsSql(host=LocalMsSql.URL, user=LocalMsSql.UID, password=LocalMsSql.PWD)
-    ob.db_list()
-
-
-if __name__ == '__main__':
-    main()
+    def columns(self, table_name):
+        """
+        :param table_name: table_name
+        :return: the schema of the table
+        """
+        try:
+            conn = self.conn()
+            cursor = conn.cursor()
+            cursor.execute(f"select * from information_schema.columns where table_name = {table_name}")
+            conn.close()
+            self.logger.log("info", f"columns names displayed")
+        except Exception as e:
+            conn.close()
+            self.logger.log("error", f"columns name not displayed : {str(e)}")
+    
+#
+# def main():
+#     ob = MsSql(host=LocalMsSql.URL, user=LocalMsSql.UID, password=LocalMsSql.PWD)
+#     ob.db_list()
+#
+#
+# if __name__ == '__main__':
+#     main()

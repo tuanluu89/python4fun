@@ -4,5 +4,5 @@ This repo was designed for abb team to learn python
 
 ├─ common
 ├─ conf
-├─ exp
+├─ exp: something interesting but in development, so don't need to follow rules
 │  ├─
