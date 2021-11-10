@@ -23,3 +23,85 @@
 15-08-2021 00:21:57| info| DB list displayed
 15-08-2021 16:11:48| info| SQL object created
 15-08-2021 16:11:48| info| DB list displayed
+15-08-2021 16:50:11| info| SQL object created
+15-08-2021 16:50:46| info| asset DB selected
+15-08-2021 21:29:31| info| SQL object created
+15-08-2021 21:29:32| info| DB list displayed
+22-08-2021 21:16:46| info| SQL object created
+22-08-2021 22:07:34| info| SQL object created
+22-08-2021 22:25:01| info| SQL object created
+22-08-2021 23:53:18| info| SQL object created
+22-08-2021 23:58:06| info| SQL object created
+23-08-2021 00:00:08| info| SQL object created
+23-08-2021 14:07:40| info| SQL object created
+24-08-2021 23:42:25| info| SQL object created
+05-09-2021 09:53:41| info| SQL object created
+05-09-2021 09:54:30| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+05-09-2021 09:57:46| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+22-09-2021 15:08:44| info| SQL object created
+22-09-2021 15:35:33| info| SQL object created
+22-09-2021 15:36:46| info| SQL object created
+22-09-2021 15:39:00| info| SQL object created
+22-09-2021 15:41:35| info| SQL object created
+22-09-2021 16:27:11| info| SQL object created
+22-09-2021 16:27:53| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+22-09-2021 16:29:09| info| SQL object created
+22-09-2021 16:32:15| info| SQL object created
+22-09-2021 16:33:14| info| SQL object created
+22-09-2021 16:34:23| info| SQL object created
+22-09-2021 16:36:50| info| SQL object created
+22-09-2021 16:39:10| info| SQL object created
+22-09-2021 16:41:14| info| SQL object created
+22-09-2021 16:42:19| info| SQL object created
+22-09-2021 16:42:43| info| SQL object created
+22-09-2021 16:43:13| info| SQL object created
+22-09-2021 16:45:23| info| SQL object created
+22-09-2021 16:45:54| info| SQL object created
+22-09-2021 16:46:34| info| SQL object created
+22-09-2021 16:46:59| info| SQL object created
+22-09-2021 16:47:37| info| SQL object created
+22-09-2021 16:47:49| info| SQL object created
+23-09-2021 09:19:36| info| SQL object created
+23-09-2021 09:20:18| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+23-09-2021 09:21:29| info| SQL object created
+30-09-2021 00:14:10| info| SQL object created
+30-09-2021 00:14:52| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:15:33| info| SQL object created
+30-09-2021 00:16:09| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:17:01| info| SQL object created
+30-09-2021 00:17:37| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:17:41| info| SQL object created
+30-09-2021 00:18:17| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:18:49| info| SQL object created
+30-09-2021 00:19:25| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:19:35| info| SQL object created
+30-09-2021 00:20:17| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:21:06| info| SQL object created
+30-09-2021 00:21:39| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (1326)')
+30-09-2021 00:22:10| info| SQL object created
+30-09-2021 00:22:51| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:23:04| info| SQL object created
+30-09-2021 00:23:43| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:26:18| info| SQL object created
+30-09-2021 00:26:59| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:27:32| info| SQL object created
+30-09-2021 00:28:11| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (1326)')
+30-09-2021 00:33:41| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (1326)')
+30-09-2021 00:33:49| info| SQL object created
+30-09-2021 00:34:27| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:36:55| info| SQL object created
+30-09-2021 00:37:34| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:40:53| info| SQL object created
+30-09-2021 00:41:31| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 00:41:45| info| SQL object created
+30-09-2021 00:42:23| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+30-09-2021 10:44:05| info| SQL object created
+30-09-2021 10:44:50| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (10061)')
+03-10-2021 17:35:33| info| SQL object created
+03-10-2021 17:36:14| error| connection error : ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53)')
+03-10-2021 17:57:53| error| connection error : ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456)")
+03-10-2021 17:58:52| info| SQL object created
+03-10-2021 17:59:03| error| connection error : ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456)")
+03-10-2021 18:00:00| info| SQL object created
+03-10-2021 18:00:04| error| connection error : ('28000', "[28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'. (18456)")
+03-10-2021 18:00:21| info| SQL object created

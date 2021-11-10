@@ -1,6 +1,6 @@
 import pandas as pd
 import pyodbc as pyodbc
-from conf.env import LocalMsSql
+# from conf.env import LocalMsSql
 from exp.logging_class import AppLogger
 
 
